@@ -1,6 +1,8 @@
-[![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
+[![New Relic Experimental header](https://github.com/newrelic/opensource-website/blob/develop/src/images/categories/Archived.png)]([https://opensource.newrelic.com/oss-category/#new-relic-experimental](https://opensource.newrelic.com/oss-category/#archived))
 
-[![CI](https://github.com/newrelic-experimental/nr1-list-view/workflows/CI/badge.svg)](https://github.com/newrelic-experimental/nr1-list-view/actions?query=workflow%3ACI) [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic-experimental/nr1-list-view?include_prereleases&sort=semver)](https://github.com/newrelic-experimental/nr1-list-view/releases) [![Known Vulnerabilities](https://snyk.io/test/github/newrelic-experimental/nr1-list-view/badge.svg)](https://snyk.io/test/github/newrelic-experimental/nr1-list-view)
+# List View has moved to [Labs Widget Pack](https://github.com/newrelic/nr-labs-widget-pack)
+
+❗ This repo is no longer actively maintained. 
 
 # List View
 
@@ -53,12 +55,6 @@ nr1 nerdpack:publish [--profile=your_profile_name]
 nr1 nerdpack:deploy [-c [DEV|BETA|STABLE]] [--profile=your_profile_name]
 nr1 nerdpack:subscribe [-c [DEV|BETA|STABLE]] [--profile=your_profile_name]
 ```
-
-## Support
-
-New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
-
-https://discuss.newrelic.com/c/build-on-new-relic/nerdpacks
 
 ## Contributing
 We encourage your contributions to improve List View! Keep in mind when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. You only have to sign the CLA one time per project.
